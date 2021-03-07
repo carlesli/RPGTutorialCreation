@@ -7,37 +7,60 @@ Before start doing a tutorial, it is important to have into account which type o
 
 -> Antepiece: An easier version of the obstacle precedes the real one. Some examples that video games use this type of tutorial are in The Legend of Zelda: Majora’s Mask at the start of the game, where you recently get transformed into deku and the first room there are few flowers that allow you to fly. This room is bottomless so the player can practice flying safely.
 
+![Zelda Majora's Mask](https://penguchannel.files.wordpress.com/2015/03/flying-deku-link.jpg?w=900)
+
 Another example we can see it in the game Kingdom Hearts II, in the tutorial section with Roxas, the player receives great damage and prepares the player to all the situations that will have to enfront. The fact is that in this zone there is no game over, so the player can practise as all as he wants.
 
+![Kingdom Hearts II](https://i.ytimg.com/vi/6HIWp3wmj60/maxresdefault.jpg)
 
 -> Auto-Pilot Tutorial: The tutorial that the player can look but can’t play it. The first example that comes to our mind most probably is the catching tutorial in the Pokemon franchise, where an NPC teaches the player the basis of how to catch pokemon.
 
+![Pokemon catching tutorial](https://www.gamerevolution.com/assets/uploads/2019/11/How-to-skip-the-tutorial-in-Pokemon-Sword-and-Shield-1280x720.jpg)
+
 Another example is in the game Mario & Luigi: Bowser’s Inside Story, where if the player chooses to practise, the game shows the move to let the player see how it is done.
 
+![Mario & Luigi](https://gamespot1.cbsistatic.com/uploads/scale_landscape/gamespot/images/2009/features/gameguides/bowsers-inside-story/1057604-bowser_001.jpg)
 
 -> Forced Tutorial: As its name says it, this tutorial is one that the player is forced to do even if it is in a New Game+. The MMORPG Final Fantasy XIV has a mandatory tutorial every time the player makes a new character.
 
+![Final fantasy tutorial](https://img.finalfantasyxiv.com/lds/uiguide/na/35/b42c2eee36c7926d4616ef6e2cb271f97f9a08.jpg)
+
 Another example we find with this type of tutorial is again in the The Legend of Zelda franchise, but this game is Wind Waker, where at the start of the game, the player has a small tutorial with some NPCs to know the mechanics of the game, and this will be applied even if the player is reaching a NewGame+.
+
+![wind waker tutorial](https://portforward.com/games/walkthroughs/The-Legend-of-Zelda-The-Wind-Waker/The-Legend-of-Zelda-The-Wind-Waker-large-396.jpg)
 
 
 -> Justified tutorial: These tutorials provide a special in-continuity tutorial section which allows the player to learn how the game works without forcing it. In either case, these tutorials are part of the game’s universe and seem so easy to implement, but in games that have different difficulty playthroughs this tutorial is not possible in the most difficult ones. One game that applies this tutorial is the first game of Dark Souls. At the beginning of this game the character has to escape from an asylum that is full of enemies and the first boss of the game. It teaches the basic controls and shows that the direct way isn’t always the best.
 
+![Dark souls tutorial](https://static.wikia.nocookie.net/darksouls/images/9/95/Northern_Undead_Asylum.jpg/revision/latest?cb=20160704002848)
+
 Another game that applies this tutorial is the title Golden Sun: Dark Dawn, where the Djinn tutorial is given by Isaac, who is the hero of the previous game.
+
+![golden sun tutorial](https://i.ytimg.com/vi/xLzN1M0I9-o/maxresdefault.jpg)
 
 -> Signpost Tutorial: This tutorial offers in-game instructions on how to play  through some feature of the game world. The instructions can be either part of the background or in posters that can be read by the player. We can see that more games use this type due to it letting the player explore on his own and read everything carefully or go on and skip this tutorial. The title Holy Umbrella has these signposts in the side view levels that tells the player which way should go.
 
+![holu umbrella tutorial](https://giantbomb1.cbsistatic.com/uploads/original/2/23093/3018210-holy%20umbrella%20-%20dondera%20no%20mubo%21%21%20%28j%29014.png)
+
 Another title that has this type is in Pokemon, where the signposts contain in-universe information, like the names of the locations or tips for the adventure.
 
+![pokemon signpost tutorial](https://sunbro.dev/images/pokeemerald/littleroot_puddle_sign.png)
 
 -> He knows about timed hits: This is a game tutorial that breaks the fourth wall, being the NPC that teaches you what button press to do certain action. This is a very common tool used in RPGs games like Super Mario RPG: Legend of the Seven Stars, where Toad teaches Mario how to use items and timed hits. Here there is a curious fact that if the player refuses to do the optional tutorial, Toad tells the goombas that has shown up that Mario already knows about timed hits and runs away in fear.
 
+![super mario rpg tutorial](https://i.ytimg.com/vi/HmR5DVLiHbQ/hqdefault.jpg)
+
 Another game that applies this tutorial is Persona 4, where one of the NPCs tells you how to use the square button to fast travel.
 
+![persona 4 tutorial](https://i.ytimg.com/vi/Wx8VKwYUbFQ/maxresdefault.jpg)
 
 -> Training boss: This is a location where the player can practice with some enemies to learn a bit of the controls and then arrives at a boss to show the mechanics of how to defeat the bosses that will appear through the game. The curious fact is that this first boss has to appear almost at the beginning, so lets the player get used to the game and defeat that boss later. In the title Demon’s Souls, after the little tutorial we see that there is a boss fight. This boss fight is mandatory that the player loses it so he/she can come back later and defeat it.
 
+![demons souls tutorial](https://assets.egames.news/__export/1605312299365/sites/debate/img/2020/11/13/ds1_crop1605312163168.jpg_988992781.jpg)
+
 Another feature of this tutorial is that at the beginning the player finds enemies that cannot be defeated and are used like punching bags. We can see an example of this in the game Mother 3, which has a function in the Battle Memory that lets the player to practise combos against an unresponsive version of any enemy.
 
+![mother 3 tutorial](https://i.ytimg.com/vi/fw_M0pFPT3Y/maxresdefault.jpg)
 
 Now that we are a bit more introduced in the world of video game tutorials, it is also important to know that each tutorial is different and always depends on many factors, like the story that the game will have, its mechanics and its design, due to everything needs to be natural and also needs to have a flow so the player doesn’t get bored or frustrated so early in the game. Despite the tutorial has variations from game to game, it has to follow some rules that will be summarized in a checklist:
 -> No too much text. If the tutorial game has too much text, many players will not read it and may lose an important feature of the game, kills pacing and destroys the immersion. So, the tutorial is better to be interactive and let the player learn well and with its rhythm. It is important that the player has a good experience playing the game and ensures that understands what the game is trying to teach him/her.
