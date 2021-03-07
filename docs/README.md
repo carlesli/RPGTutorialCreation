@@ -32,7 +32,7 @@ Another example we find with this type of tutorial is again in the The Legend of
 
 -> Justified tutorial: These tutorials provide a special in-continuity tutorial section which allows the player to learn how the game works without forcing it. In either case, these tutorials are part of the game’s universe and seem so easy to implement, but in games that have different difficulty playthroughs this tutorial is not possible in the most difficult ones. One game that applies this tutorial is the first game of Dark Souls. At the beginning of this game the character has to escape from an asylum that is full of enemies and the first boss of the game. It teaches the basic controls and shows that the direct way isn’t always the best.
 
-![Dark souls tutorial](https://static.wikia.nocookie.net/darksouls/images/9/95/Northern_Undead_Asylum.jpg/revision/latest?cb=20160704002848)
+![Dark souls tutorial](https://cdn.gamer-network.net/2018/usgamer/dark-souls-remastered-asylum-demon-start.jpg)
 
 Another game that applies this tutorial is the title Golden Sun: Dark Dawn, where the Djinn tutorial is given by Isaac, who is the hero of the previous game.
 
