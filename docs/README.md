@@ -83,3 +83,7 @@ https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorial
 https://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameTutorial
 
 https://schoolofgamedesign.com/project/good-video-game-tutorial/
+
+# Checklist for making a tutorial
+
+![Tutorial cheklist](https://github.com/carlesli/RPGTutorialCreation/blob/main/docs/tutorial_checklist.pdf)
