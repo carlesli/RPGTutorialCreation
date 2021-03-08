@@ -77,6 +77,9 @@ With this information, we need that in the tutorial the game teaches the player 
 # Webgraphy
 
 https://en.wikipedia.org/wiki/Tutorial_(video_games)#:~:text=In%20the%20context%20of%20video,are%20completely%20separate%20and%20optional.
+
 https://www.gamasutra.com/blogs/NathanHedges/20171013/307378/Video_Game_Tutorials_How_Do_They_Teach.php
+
 https://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameTutorial
+
 https://schoolofgamedesign.com/project/good-video-game-tutorial/
